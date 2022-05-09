@@ -1,4 +1,4 @@
-module github.com/fclairamb/ftpserverlib
+module github.com/siepkes/ftpserverlib
 
 go 1.18
 
